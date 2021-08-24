@@ -9,7 +9,7 @@ skilled in **React Native, NodeJS, MongoDB, RESTfull API’s, Python, JavaScript
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 
-.<!--
+<!--
 **Mrangulo-Ke/Mrangulo-Ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
