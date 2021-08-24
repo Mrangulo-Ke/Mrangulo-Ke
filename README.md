@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi there 👋
 
 I am **Patrick Mrangulo** working as **Freelance Web Developer**. I am an experienced **Fullstack Developer**
