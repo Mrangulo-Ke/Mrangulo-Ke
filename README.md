@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am **Patrick Mrangulo** working as **Freelance Web Developer**. I am an experienced **Fullstack Developer**
-skilled in **React Native, NodeJS, MongoDB, RESTfull API’s, Python, JavaScript, Django, Html5 and CSS.**
+skilled in **JavaScript, NodeJS, MongoDB, REST API’s, Python, Django, Html5 and CSS.**
 
 - 🌱 I’m currently learning ... typescript, the odin project and gads 2021
 - 👯 I’m looking to collaborate on open source/commercial projects
